@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#222222"
+android:columnCount="3"
+android:padding="20dp"
+android:rowCount="5"
+tools:context=".Main4Activity">
+
+<ImageView
+    android:layout_width="130dp"
+    android:layout_height="130dp"
+    android:padding="5dp"
+    android:src="@drawable/grito1" />
+<ImageView
+    android:layout_width="130dp"
+    android:layout_height="130dp"
+    android:padding="5dp"
+    android:src="@drawable/grito2" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito3" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito5" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito6" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito7" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito8" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito1" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito2" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito3" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito4" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito5" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito6" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito7" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:padding="5dp"
+        android:src="@drawable/grito8" />
+
+
+
+
+</GridLayout>
